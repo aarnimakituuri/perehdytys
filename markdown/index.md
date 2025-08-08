@@ -1,1 +1,3 @@
 # Esittely
+
+olen käyttänyt tietokonetta 
